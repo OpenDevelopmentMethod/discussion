@@ -1,5 +1,11 @@
-# [meta](https://github.com/OpenDevelopmentMethod/meta/issues) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/OpenDevelopmentMethod/meta)
+# [Discussion](https://github.com/OpenDevelopmentMethod/meta/issues) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/OpenDevelopmentMethod/discussion)
 
 > General discussions repo for [Open Development Method](http://opendevelopmentmethod.org/) related projects
 
-If you have any general questions regarding Open Development Method or any of its projects, please open an issue [here](https://github.com/OpenDevelopmentMethod/meta/issues). Don't open issues in other repositories unless they are actual issues.
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+
+### Guidelines
+
+- Ensure your question hasn't already been answered.
+- Use a succinct title and description.
+- Be civil and polite :)
