@@ -2,9 +2,9 @@
 
 > General discussions repo for [Open Development Method](http://opendevelopmentmethod.org/) related topics, Q&A and community forum.
 
-## [Ask a question](../../issues/new) &nbsp; | &nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+### [Ask a question](../../issues/new) &nbsp; | &nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-### Guidelines
+#### Guidelines
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
