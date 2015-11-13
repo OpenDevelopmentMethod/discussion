@@ -13,6 +13,6 @@
 [badge-read]: https://img.shields.io/badge/Q%20&%20A-read%20questions-008bb8.svg
 
 [ask]: ../../issues/new
-[read]: ../../issues?q=is%3Aissue+is%3Aclosed
+[read]: ../../issues?q=is%3Aissue
 [gitter]: https://gitter.im/OpenDevelopmentMethod/discussion
 [website]: http://opendevelopmentmethod.org/
