@@ -2,7 +2,7 @@
 
 > General discussions repo for [Open Development Method](http://opendevelopmentmethod.org/) related topics, Q&A and community forum.
 
-## [Ask a question](../../issues/new):question: &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed):mag:
+## [Ask a question](../../issues/new) &nbsp; | &nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
 ### Guidelines
 
