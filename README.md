@@ -1,8 +1,8 @@
-# Discussion [![][badge-questions]][link-questions] [![][badge-gitter]][link-gitter]
+# Discussion [![][badge-questions]][ask] [![][badge-gitter]][gitter]
 
-> General discussions repo for [Open Development Method](http://opendevelopmentmethod.org/) related topics, Q&A and community forum.
+> General discussions repo for [Open Development Method][website] related topics, Q&A and community forum.
 
-### [Ask a question](../../issues/new) &nbsp; | &nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+### [Ask a question][ask] &nbsp; | &nbsp; [Read questions][read]
 
 #### Guidelines
 
@@ -13,5 +13,7 @@
 [badge-gitter]: https://img.shields.io/badge/Gitter-join%20chat-brightgreen.svg
 [badge-questions]: https://img.shields.io/badge/Q%20&%20A-ask%20a%20question-blue.svg
 
-[link-gitter]: https://gitter.im/OpenDevelopmentMethod/discussion
-[link-questions]: https://github.com/OpenDevelopmentMethod/meta/issues
+[ask]: ../../issues/new
+[read]: ../../issues?q=is%3Aissue+is%3Aclosed
+[gitter]: https://gitter.im/OpenDevelopmentMethod/discussion
+[website]: http://opendevelopmentmethod.org/
