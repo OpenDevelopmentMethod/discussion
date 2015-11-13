@@ -1,8 +1,10 @@
-# Discussion [![][badge-questions]][ask] [![][badge-gitter]][gitter]
+# Discussion 
 
 > General discussions repo for [Open Development Method][website] related topics, Q&A and community forum.
 
-### [Ask a question][ask] &nbsp; | &nbsp; [Read questions][read]
+[![Ask a question][badge-ask]][ask]
+[![Read questions][badge-read]][read]
+[![Live Chat][badge-gitter]][gitter]
 
 #### Guidelines
 
@@ -11,7 +13,8 @@
 - Be civil and polite :)
 
 [badge-gitter]: https://img.shields.io/badge/Gitter-join%20chat-brightgreen.svg
-[badge-questions]: https://img.shields.io/badge/Q%20&%20A-ask%20a%20question-blue.svg
+[badge-ask]: https://img.shields.io/badge/Q%20&%20A-ask%20a%20question-blue.svg
+[badge-read]: https://img.shields.io/badge/Q%20&%20A-read%20questions-008bb8.svg
 
 [ask]: ../../issues/new
 [read]: ../../issues?q=is%3Aissue+is%3Aclosed
