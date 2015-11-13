@@ -1,10 +1,6 @@
-# Discussion 
+# Discussion [![Ask a question][badge-ask]][ask] [![Read questions][badge-read]][read] [![Live Chat][badge-gitter]][gitter]
 
 > General discussions repo for [Open Development Method][website] related topics, Q&A and community forum.
-
-[![Ask a question][badge-ask]][ask]
-[![Read questions][badge-read]][read]
-[![Live Chat][badge-gitter]][gitter]
 
 #### Guidelines
 
