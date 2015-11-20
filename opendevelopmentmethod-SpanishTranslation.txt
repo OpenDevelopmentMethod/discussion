@@ -1,0 +1,86 @@
+Beyond Agile
+
+Algunas <a href="https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software">Metodologías de desarrollo de software</a>, frameworks y prácticas han evolucionado a lo largo de los años. Algunos de ellos con sus propias fortalezas y debilidades reconocidas.
+
+Aunque metodologías comunes como el <a href="https://es.wikipedia.org/wiki/Desarrollo_en_cascada">desarrollo en cascada</a>, <a href="https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema">Extreme Programming</a> y varios tipos de <a href="https://en.wikipedia.org/wiki/Agile_software_development">metodologías ágiles</a> han podido tener más sentido cuando estaban en desarrollo (sobre todo en los 80 y 90), han evolucionado mucho en los años posteriores.
+
+Las startups y negocios cuya mano de obra solía ser escasa y localizada están ahora más globalizadas, con empleados colaborando desde múltiples países y zonas horarias. Además de una nueva mano de obra, las tecnologías e idiomas de los que disponemos en nuestros lugares de trabajo desarrollan su propia evolución, permitiendo a los negocios a operar de formas nuevas y más enérgicas. Mientras el mundo entero continúa desarrollándose a nuestro alrededor tiene sentido que nuestras metodologías de desarrollo de software evolucionen también.
+
+¿POR QUÉ?
+
+El Open Development Method es un resumen de lecciones aprendidas en algunos de los grandes equipos punteros de Agile, Scrum, desarrollo en cascada y otras metodologías comunes.
+
+Después de presenciar esas tecnologías dejando de estar a la altura cuando alguna variable inesperada entraba en juego, especialmente cuando los equipos eran distribuidos, políglotas, y multifuncionales (un escenario que los equipos en startups actuales están experimentando), me he dado cuenta de que mientras la economía global continúa creciendo, los espacios de trabajo más tradicionales y centralizados ya no siguen siendo necesarios.
+
+El mundo Open Source es un ejemplo claramente exitoso de ello. En él, un flujo natural de conversación, debate y contribuciones a proyectos online se dan cabida de forma asíncrona, desde cualquier lugar, cuyos miembros comparten un objetivo común y la habilidad de ver más allá del idioma, zona horaria y otras barreras para conseguir comunicarse y coordinarse de forma eficiente.
+
+El open source en 2015, está en todas partes. Potencialmente, cualquier persona que usa alguna tecnología actual también se beneficia de soluciones open source de alguna manera. Si nos paramos a pensar en el grupo internacional de desarrolladores que contribuyen a los proyectos open source más famosos, habría que preguntarse cómo han sido capaces de tener éxito sin la ayuda de managers, reuniones y sprints de código. Tras investigarse cómo han tenido éxito esos proyectos open source, una serie de principios empiezan a tomar forma, los del Open Development Method.
+
+LOS PRINCIPIOS DEL OPEN DEVELOPMENT METHOD
+
+Calidad del código.
+
+Dentro del open development method, la calidad de código es la reina. Deberías formularte las siguientes preguntas clave cada vez que escribes código:
+
+¿Este código es legible?
+¿Este código es testeable?
+¿Este código es modular?
+¿Este código es económico/rentable?
+
+Cada una de esas preguntas no sólo te beneficia a ti, sino a tu equipo de desarrollo. Cuando escribes código de forma que a otro desarrollador al otro lado del mundo puede sentarse y trabajar con él inmediatamente, sin necesidad de hacer preguntas, estás ayudando a mejorar la eficiencia del equipo. De la misma forma, si te aseguras de que tu código es testeable, eliminas una gran cantidad de obstáculos antes de que tu equipo se los llegue a encontrar. Con modularidad, el código que presentas a tu equipo de desarrollo es fácilmente mantenible y potencialmente reusable en otro proyecto. Finalmente, un código económico/rentable puede ahorrar tiempo y dinero a todo el equipo, así como a futuros contribuyentes, clientes y usuarios finales.
+
+Documentación.
+
+Los desarrolladores no tienen por qué disfrutar al documentar su propio código, no es ningún secreto. De hecho, cuando usan sistemas de procesos que se guían por priorización como Scrum, lo más probable es que no tengan tiempo a pesar de que quieran documentar, debido a que normalmente la prioridad del proceso de negocio es mayor. La mayor parte de la documentación que vas a escribir es un código de gran calidad, pero no es suficiente. Piensa en los que no conocen el código, o los que no tienen tiempo o ganas de leerlo. Cuando tu equipo se centra en documentar los proyectos adecuadamente, se está haciendo por el código, al igual que hace el programa de TV <a href="http://www.sciencechannel.com/tv-shows/how-its-made/">How It’s Made</a> a sus espectadores: explicar de forma sencilla los procesos complejos, de forma que pueda llegar a un espectro amplio de la audiencia.
+
+Testing - Pruebas.
+
+En un equipo geográficamente diversificado en el que puede que se reciba ayuda en tiempo real, los tests ayudan a trabajar con gran independencia y una menor cantidad de obstáculos. Un código testeable proporciona muchos beneficios. Echemos un vistazo a la lista de <a href="http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/">12 beneficios</a> escrita por <a href="https://www.linkedin.com/in/jtimothyking">Tim King</a> acerca de escribir primero los tests unitarios:
+
+Los tests unitarios prueban que tu código funciona.
+Consigues una suite de tests de regresión a bajo nivel.
+Puedes mejorar el diseño sin romperlo.
+Es más divertido programar con ellos que sin ellos.
+Demuestran progreso real.
+Los test unitarios son una forma de código de prueba.
+Te obliga a planificar antes de programar.
+Reduce el coste de los bugs.
+Son mejores que las inspecciones de código.
+Eliminan el bloqueo del programador.
+Los tests unitarios mejoran el diseño.
+Es más rápido que escribir código sin tests.
+
+Debates.
+
+Todo el mundo debería tener algo que decir con respecto al proyecto y la dirección de éste. Nunca descartar al coordinador de marketing, diseñadores, o al gerente de administración. Todo está abierto a debate y en ese caso, cualquiera debería tener acceso a cualquier otro sin lidiar con la cadena de mando. Se pueden descubrir algunas de las ideas y soluciones más ingeniosas.
+
+Aunque un desarrollador veterano puede dominar los debates gracias a su experiencia, nunca se debería ignorar a un desarrollador nuevo que tiene ideas distintas. Pueden aportar algo de frescura. El <a href="http://todogroup.org/opencodeofconduct/">TODO Group Open Source Code of Conduct</a> señala las expectativas generales de la comunidad de un proyecto. Podemos considerar usarlo cuando participamos en debates con el equipo:
+
+Sé simpático y paciente.
+Sé acogedor.
+Sé considerado.
+Sé respetuoso.
+Sé cuidadoso al elegir las palabras.
+Intenta entender por qué no estamos de acuerdo.
+
+Transparencia.
+
+Generar confianza hacia el usuario, promocionar el compromiso con la comunidad, y mejorar la seguridad y estabilidad de tu proyecto son objetivos que tradicionalmente se llevan por separado en el camino al éxito del proyecto. Sin embargo, cuando tu equipo se acoge a la transparencia del open development method, los tres objetivos se pueden cumplir simultáneamente.
+
+Ya que se libera el código del proyecto para hacer público el gestor de incidencias y brindar conocimiento dentro de los procesos internos y comunicaciones, la pasión detrás de un proyecto se muestra a cualquiera que entre en contacto con él. Cuando los usuarios y desarrolladores tiene acceso a estos recursos, tu equipo no sólo encontrará colaboradores, sino que ganará un mayor respeto y aceptación de parte de la comunidad. La transparencia es una poderosa herramienta de marketing y trabajo.
+
+Asincronía.
+
+Con las startups, las empresas y proyectos open source distribuyendo el trabajo a desarrolladores de todo el mundo, mantener el nivel de sincronía que un proceso de desarrollo de software como Scrum espera se vuelve más difícil. Para algunos grupos, mantener una reunión diaria (daily) de Scrum no es realista y cuando tienes a cinco desarrolladores en cinco países diferentes puedes descontar la posibilidad de paired programming. En el mundo del software actual prospera la asincronía, y los equipos que siguen el open development method también podrán hacerlo.
+
+Si alguien tiene una duda, puede enviar un email o un post, normalmente esperando que su mensaje tarde en ser respondido. ¿Debería esto ralentizar su trabajo? No necesariamente: la necesidad de ser independientes y adaptables hace a los desarrolladores capaces para modificar sus expectativas, centrarse en la calidad del código, mejorar la documentación e incrementar sus habilidades.
+
+Democracia.
+
+Además de los debates abiertos y la compartición de ideas dentro de la comunidad de un proyecto, los miembros de esa comunidad deberían implicarse en la toma de decisiones. Cuando las decisiones se toman a puerta cerrada entre ejecutivos o managers, normalmente se tiene un punto de vista más limitado o escaso. Cuando todo el mundo está involucrado en las decisiones, incluyendo los usuarios o clientes, existe una probabilidad mayor de detectar y resolver problemas potenciales antes de que se conviertan en problemas.
+
+UNA INICIATIVA ABIERTA.
+
+En vez de permitir que una persona o un grupo pequeño de personas desarrolle esta metodología, el proceso debería ser tan abierto e inclusivo como cualquier otro proyecto open source.
+
+Es posible que haya prioridades o apartados que necesiten mejoras, así que por favor, únete al debate en GitHub, y trabajemos juntos en crear una lista de directrices que merezca la pena y permita triunfar a equipos de desarrollo de todos los tamaños.
