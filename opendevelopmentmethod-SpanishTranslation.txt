@@ -10,7 +10,7 @@ Las startups y negocios cuya mano de obra solía ser escasa y localizada están 
 
 El Open Development Method es un resumen de lecciones aprendidas en algunos de los grandes equipos punteros de Agile, Scrum, desarrollo en cascada y otras metodologías comunes.
 
-Después de presenciar esas tecnologías dejando de estar a la altura cuando alguna variable inesperada entraba en juego, especialmente cuando los equipos eran distribuidos, políglotas, y multifuncionales (un escenario que los equipos en startups actuales están experimentando), me he dado cuenta de que mientras la economía global continúa creciendo, los espacios de trabajo más tradicionales y centralizados ya no siguen siendo necesarios.
+Después de presenciar esas tecnologías dejando de estar a la altura cuando alguna variable inesperada entraba en juego, especialmente cuando los equipos eran distribuidos, políglotas, y multifuncionales (un escenario que los equipos en startups actuales están experimentando), me he dado cuenta de que mientras la economía global continúa creciendo, las nociones tradicionales de espacios de trabajo centralizados ya no son el objetivo deseado.
 
 El mundo Open Source es un ejemplo claramente exitoso de ello. En él, un flujo natural de conversación, debate y contribuciones a proyectos online se dan cabida de forma asíncrona, desde cualquier lugar, cuyos miembros comparten un objetivo común y la habilidad de ver más allá del idioma, zona horaria y otras barreras para conseguir comunicarse y coordinarse de forma eficiente.
 
@@ -25,7 +25,7 @@ Dentro del open development method, la calidad de código es la reina. Deberías
 ¿Este código es legible?
 ¿Este código es testeable?
 ¿Este código es modular?
-¿Este código es económico/rentable?
+¿Este código es económico?
 
 Cada una de esas preguntas no sólo te beneficia a ti, sino a tu equipo de desarrollo. Cuando escribes código de forma que a otro desarrollador al otro lado del mundo puede sentarse y trabajar con él inmediatamente, sin necesidad de hacer preguntas, estás ayudando a mejorar la eficiencia del equipo. De la misma forma, si te aseguras de que tu código es testeable, eliminas una gran cantidad de obstáculos antes de que tu equipo se los llegue a encontrar. Con modularidad, el código que presentas a tu equipo de desarrollo es fácilmente mantenible y potencialmente reusable en otro proyecto. Finalmente, un código económico/rentable puede ahorrar tiempo y dinero a todo el equipo, así como a futuros contribuyentes, clientes y usuarios finales.
 
@@ -83,4 +83,4 @@ UNA INICIATIVA ABIERTA.
 
 En vez de permitir que una persona o un grupo pequeño de personas desarrolle esta metodología, el proceso debería ser tan abierto e inclusivo como cualquier otro proyecto open source.
 
-Es posible que haya prioridades o apartados que necesiten mejoras, así que por favor, únete al debate en GitHub, y trabajemos juntos en crear una lista de directrices que merezca la pena y permita triunfar a equipos de desarrollo de todos los tamaños.
+Es posible que haya prioridades o apartados que necesiten mejoras, así que por favor, únete al <a href="https://github.com/OpenDevelopmentMethod/discussion">debate en GitHub (en inglés)</a>, y trabajemos juntos en crear una lista de directrices que merezca la pena y permita triunfar a equipos de desarrollo de todos los tamaños.
