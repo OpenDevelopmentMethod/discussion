@@ -1,4 +1,5 @@
-# Discussion [![Ask a question][badge-ask]][ask] [![Read questions][badge-read]][read] [![Live Chat][badge-gitter]][gitter]
+# Discussion [![Ask a question][badge-ask]][ask] [![Read questions][badge-read]][read] [![Live Chat][badge-gitter]][gitter] ![Open Development Method: True](https://img.shields.io/badge/Development%20Method-Open-blue.svg)
+
 
 > General discussions repo for [Open Development Method][website] related topics, Q&A and community forum.
 
